@@ -23,6 +23,7 @@ const Header = () => {
       <Image
         className="object-contain"
         src="/hu.png"
+        alt="logo"
         width={200}
         height={100}
       />
